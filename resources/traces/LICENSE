@@ -1,0 +1,9 @@
+The input traces provided in this directory are processed versions of the open source traces found at https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV1.md (specifically, the file `vmtable.csv.gz`) and described in
+
+> Cortez, E., Bonde, A., Muzio, A., Russinovich, M., Fontoura, M.,
+and Bianchini, R. Resource central: Understanding and predicting
+workloads for improved resource management in large cloud platforms.
+In Proceedings of the 26th Symposium on Operating Systems Principles
+(2017), pp. 153–167.
+
+The original data was shared under the following Creative Commons Attribution 4.0 International Public License: https://github.com/Azure/AzurePublicDataset/blob/master/LICENSE
