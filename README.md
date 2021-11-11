@@ -6,6 +6,8 @@ This repository contains the trace generation code for the paper
 
 > Bergsma S., Zeyl T., Senderovich A., and Beck J. C., "Generating Complex, Realistic Cloud Workloads using Recurrent Neural Networks", 28th Symposium on Operating Systems Principles, 2021
 
+Read [the paper](https://dl.acm.org/doi/pdf/10.1145/3477132.3483590).  Watch [the talk](https://www.youtube.com/watch?v=7EPQhWbKXa0).
+
 # Documents
 
 To run the code, see the [RUNNING.md](RUNNING.md) file.
